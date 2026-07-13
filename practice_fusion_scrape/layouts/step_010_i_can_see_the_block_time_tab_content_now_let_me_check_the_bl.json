@@ -1,0 +1,1194 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler/week",
+  "title": "Practice Fusion",
+  "hash": "#/PF/schedule/scheduler/week",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Schedule0 Appointments",
+      "rect": {
+        "x": 96,
+        "y": 68,
+        "w": 212,
+        "h": 40
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Jul 12 - 18, 2026",
+      "rect": {
+        "x": 296,
+        "y": 189,
+        "w": 408,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "New appointment",
+      "rect": {
+        "x": 440,
+        "y": 98,
+        "w": 140,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "With patient",
+      "rect": {
+        "x": 412,
+        "y": 131,
+        "w": 102,
+        "h": 32
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Block time",
+      "rect": {
+        "x": 514,
+        "y": 131,
+        "w": 90,
+        "h": 32
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Block range",
+      "rect": {
+        "x": 604,
+        "y": 131,
+        "w": 98,
+        "h": 32
+      }
+    }
+  ],
+  "regions": [
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember271",
+      "classes": "content-modal__header-base tier-1-icons ember-view content-modal__header--style-0 appointment-modal__header ui-draggable",
+      "text_preview": "New appointment",
+      "rect": {
+        "x": 412,
+        "y": 90,
+        "w": 480,
+        "h": 40
+      }
+    }
+  ],
+  "tables": [
+    {
+      "headers": [
+        null,
+        "Sun 7/12",
+        "Mon 7/13",
+        "Tue 7/14",
+        "Wed 7/15",
+        "Thu 7/16",
+        "Fri 7/17",
+        "Sat 7/18",
+        "12:00 AM",
+        null,
+        "1:00 AM",
+        null,
+        "2:00 AM",
+        null,
+        "3:00 AM",
+        null,
+        "4:00 AM",
+        null,
+        "5:00 AM",
+        null,
+        "6:00 AM",
+        null,
+        "7:00 AM",
+        null,
+        "8:00 AM",
+        null,
+        "9:00 AM",
+        null,
+        "10:00 AM",
+        null,
+        "11:00 AM",
+        null,
+        "12:00 PM",
+        null,
+        "1:00 PM",
+        null,
+        "2:00 PM",
+        null,
+        "3:00 PM",
+        null,
+        "4:00 PM",
+        null,
+        "5:00 PM",
+        null,
+        "6:00 PM",
+        null,
+        "7:00 PM",
+        null,
+        "8:00 PM",
+        null,
+        "9:00 PM",
+        null,
+        "10:00 PM",
+        null,
+        "11:00 PM",
+        null
+      ],
+      "row_count": 98,
+      "rect": {
+        "x": 280,
+        "y": 224,
+        "w": 829,
+        "h": 575
+      }
+    },
+    {
+      "headers": [
+        null
+      ],
+      "row_count": 1,
+      "rect": {
+        "x": 280,
+        "y": 224,
+        "w": 74,
+        "h": 50
+      }
+    },
+    {
+      "headers": [
+        "Sun 7/12",
+        "Mon 7/13",
+        "Tue 7/14",
+        "Wed 7/15",
+        "Thu 7/16",
+        "Fri 7/17",
+        "Sat 7/18"
+      ],
+      "row_count": 1,
+      "rect": {
+        "x": 354,
+        "y": 224,
+        "w": 755,
+        "h": 50
+      }
+    },
+    {
+      "headers": [
+        "12:00 AM",
+        null,
+        "1:00 AM",
+        null,
+        "2:00 AM",
+        null,
+        "3:00 AM",
+        null,
+        "4:00 AM",
+        null,
+        "5:00 AM",
+        null,
+        "6:00 AM",
+        null,
+        "7:00 AM",
+        null,
+        "8:00 AM",
+        null,
+        "9:00 AM",
+        null,
+        "10:00 AM",
+        null,
+        "11:00 AM",
+        null,
+        "12:00 PM",
+        null,
+        "1:00 PM",
+        null,
+        "2:00 PM",
+        null,
+        "3:00 PM",
+        null,
+        "4:00 PM",
+        null,
+        "5:00 PM",
+        null,
+        "6:00 PM",
+        null,
+        "7:00 PM",
+        null,
+        "8:00 PM",
+        null,
+        "9:00 PM",
+        null,
+        "10:00 PM",
+        null,
+        "11:00 PM",
+        null
+      ],
+      "row_count": 48,
+      "rect": {
+        "x": 280,
+        "y": -2706,
+        "w": 74,
+        "h": 3504
+      }
+    },
+    {
+      "headers": [],
+      "row_count": 48,
+      "rect": {
+        "x": 355,
+        "y": -2706,
+        "w": 754,
+        "h": 3504
+      }
+    }
+  ],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 55
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember148",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 77,
+        "h": 30
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Appointments",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember154",
+      "classes": "composable-header__nav-tab ember-view",
+      "rect": {
+        "x": 96,
+        "y": 116,
+        "w": 104,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Appointments",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler/agenda",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember155",
+      "classes": "composable-header__nav-link ember-view",
+      "rect": {
+        "x": 105,
+        "y": 119,
+        "w": 86,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Day",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember156",
+      "classes": "composable-header__nav-tab ember-view",
+      "rect": {
+        "x": 208,
+        "y": 116,
+        "w": 41,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Day",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler/day",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember157",
+      "classes": "composable-header__nav-link ember-view",
+      "rect": {
+        "x": 217,
+        "y": 119,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Week",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember158",
+      "classes": "composable-header__nav-tab composable-header__nav-tab--is-active ember-view",
+      "rect": {
+        "x": 257,
+        "y": 116,
+        "w": 51,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Week",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler/week",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember159",
+      "classes": "composable-header__nav-link active ember-view",
+      "rect": {
+        "x": 266,
+        "y": 119,
+        "w": 33,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember160",
+      "classes": "composable-header__nav-tab ember-view",
+      "rect": {
+        "x": 317,
+        "y": 116,
+        "w": 66,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Settings",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule/scheduler/settings",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember161",
+      "classes": "composable-header__nav-link ember-view",
+      "rect": {
+        "x": 326,
+        "y": 119,
+        "w": 48,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Filter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--toggle-is-active btn--a11y",
+      "rect": {
+        "x": 96,
+        "y": 147,
+        "w": 84,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Refresh",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 188,
+        "y": 147,
+        "w": 100,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Will Demo Practice",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 297,
+        "y": 147,
+        "w": 200,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add appointment",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--primary",
+      "rect": {
+        "x": 949,
+        "y": 147,
+        "w": 144,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Just me",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 177,
+        "y": 232,
+        "w": 45,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 236,
+        "y": 232,
+        "w": 23,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle calendar",
+      "name": null,
+      "id": null,
+      "classes": "btn--default btn--icon date-picker__icon",
+      "rect": {
+        "x": 712,
+        "y": 189,
+        "w": 38,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-sm border--LRn rotate-180",
+      "rect": {
+        "x": 750,
+        "y": 189,
+        "w": 36,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-sm",
+      "rect": {
+        "x": 786,
+        "y": 189,
+        "w": 38,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Today",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-sm border--Ln",
+      "rect": {
+        "x": 824,
+        "y": 189,
+        "w": 61,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-sm border--Rn",
+      "rect": {
+        "x": 893,
+        "y": 189,
+        "w": 37,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-sm",
+      "rect": {
+        "x": 930,
+        "y": 189,
+        "w": 38,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "30 min slots",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 976,
+        "y": 189,
+        "w": 117,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "icon-go-away pull-right",
+      "rect": {
+        "x": 862,
+        "y": 100,
+        "w": 15,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "With patient",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember326",
+      "classes": "tab-panel__tab ember-view",
+      "rect": {
+        "x": 412,
+        "y": 130,
+        "w": 102,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "With patient",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link add-appointment__event-type-option",
+      "rect": {
+        "x": 420,
+        "y": 130,
+        "w": 86,
+        "h": 36
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Block time",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember327",
+      "classes": "tab-panel__tab tab-panel__tab--active ember-view",
+      "rect": {
+        "x": 514,
+        "y": 130,
+        "w": 90,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Block time",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link add-appointment__event-type-option",
+      "rect": {
+        "x": 522,
+        "y": 130,
+        "w": 74,
+        "h": 36
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Block range",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember328",
+      "classes": "tab-panel__tab ember-view",
+      "rect": {
+        "x": 604,
+        "y": 130,
+        "w": 98,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Block range",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link add-appointment__event-type-option",
+      "rect": {
+        "x": 612,
+        "y": 130,
+        "w": 82,
+        "h": 36
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Demo, Will",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 428,
+        "y": 203,
+        "w": 219,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Will Demo Practice",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 655,
+        "y": 203,
+        "w": 219,
+        "h": 26
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": "07/12/2026",
+      "placeholder": "MM/DD/YYYY",
+      "href": null,
+      "ariaLabel": "Date picker",
+      "name": null,
+      "id": "ember339",
+      "classes": "input--text ember-text-field input--date-time date-picker--full-year ember-view",
+      "rect": {
+        "x": 428,
+        "y": 259,
+        "w": 138,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle calendar",
+      "name": null,
+      "id": null,
+      "classes": "btn--link date-picker__icon",
+      "rect": {
+        "x": 544,
+        "y": 259,
+        "w": 14,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "button-group__option\n            decrement",
+      "rect": {
+        "x": 573,
+        "y": 259,
+        "w": 27,
+        "h": 26
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": "11:00 PM",
+      "placeholder": "00:00 AM",
+      "href": null,
+      "ariaLabel": "Time picker",
+      "name": null,
+      "id": "ember342",
+      "classes": "input--text ember-text-field input--date-time time-picker--full-hour ember-view",
+      "rect": {
+        "x": 600,
+        "y": 259,
+        "w": 93,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "button-group__option\n            increment",
+      "rect": {
+        "x": 693,
+        "y": 259,
+        "w": 27,
+        "h": 26
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": "30",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember345",
+      "classes": "ember-text-field ember-view input--a11y input--text",
+      "rect": {
+        "x": 728,
+        "y": 259,
+        "w": 90,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "editable-select__arrow-button",
+      "rect": {
+        "x": 822,
+        "y": 259,
+        "w": 32,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Select...",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 428,
+        "y": 315,
+        "w": 446,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Never",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 428,
+        "y": 371,
+        "w": 446,
+        "h": 26
+      }
+    },
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember359",
+      "classes": "ember-text-area input--text input--textarea text-area-counter__textarea--small ember-view",
+      "rect": {
+        "x": 428,
+        "y": 428,
+        "w": 446,
+        "h": 52
+      }
+    },
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember363",
+      "classes": "ember-text-area input--text input--textarea ember-view",
+      "rect": {
+        "x": 428,
+        "y": 534,
+        "w": 446,
+        "h": 46
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Cancel",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 428,
+        "y": 561,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Save",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--brand",
+      "rect": {
+        "x": 813,
+        "y": 561,
+        "w": 63,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Knowledge Center Bot, also known as KC Bot is an onboarding assistant that allows you to see the list of onboarding items in one place for quick and easy reference. This improves your in-app experience.",
+      "name": null,
+      "id": null,
+      "classes": "apt-widget-dragging-handle dragging-handle",
+      "rect": {
+        "x": 1202,
+        "y": 722,
+        "w": 58,
+        "h": 58
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nSchedule\nSchedule0 Appointments\nAppointments\nDay\nWeek\nSettings\nFilter\nRefresh\nWill Demo Practice\nAdd appointment\n\n USERS\n\nAll\nJust me | Edit\nLOGGED IN AS\nDemo, Will\n\n DISPLAY OPTIONS\n\n APPOINTMENT TYPES\n\n APPOINTMENT STATUS\n\n AVAILABILITY\n\nJul 12 - 18, 2026\nToday\n30 min slots\n\u00a0\n\t\nSun 7/12\tMon 7/13\tTue 7/14\tWed 7/15\tThu 7/16\tFri 7/17\tSat 7/18\n\n\n12:00 AM\n\u00a0\n1:00 AM\n\u00a0\n2:00 AM\n\u00a0\n3:00 AM\n\u00a0\n4:00 AM\n\u00a0\n5:00 AM\n\u00a0\n6:00 AM\n\u00a0\n7:00 AM\n\u00a0\n8:00 AM\n\u00a0\n9:00 AM\n\u00a0\n10:00 AM\n\u00a0\n11:00 AM\n\u00a0\n12:00 PM\n\u00a0\n1:00 PM\n\u00a0\n2:00 PM\n\u00a0\n3:00 PM\n\u00a0\n4:00 PM\n\u00a0\n5:00 PM\n\u00a0\n6:00 PM\n\u00a0\n7:00 PM\n\u00a0\n8:00 PM\n\u00a0\n9:00 PM\n\u00a0\n10:00 PM\n\u00a0\n11:00 PM\n\u00a0\n\t\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\n\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t\u00a0\nAdvertisement\nNew appointment\nWith patient\nBlock time\nBlock range\nBLOCK TIME FOR\nDemo, Will\nFACILITY\nWill Demo Practice\nDATE\nTIME\nDURATION\nREASON\nSelect...\nREPEAT\nNever\nDESCRIPTION \n\n0/100\n\nNOTE \nCancel\nSave",
+  "captured_at": "2026-07-13T05:39:48.052138+00:00",
+  "step_label": "I can see the \"Block time\" tab content. Now let me check the \"Block range\" tab."
+}

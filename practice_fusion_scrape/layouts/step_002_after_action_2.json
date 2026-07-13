@@ -1,0 +1,711 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home/main",
+  "title": "Practice Fusion",
+  "hash": "#/PF/home/main",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Practice dashboard",
+      "rect": {
+        "x": 80,
+        "y": 60,
+        "w": 225,
+        "h": 56
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Your practice. Our purpose.",
+      "rect": {
+        "x": 150,
+        "y": -152,
+        "w": 213,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "EHR users",
+      "rect": {
+        "x": 493,
+        "y": -152,
+        "w": 122,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Labs",
+      "rect": {
+        "x": 835,
+        "y": -152,
+        "w": 81,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Imaging centers",
+      "rect": {
+        "x": 150,
+        "y": 76,
+        "w": 168,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "e-Prescribing",
+      "rect": {
+        "x": 493,
+        "y": 76,
+        "w": 146,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "CPT codes license access",
+      "rect": {
+        "x": 797,
+        "y": 76,
+        "w": 189,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Billing",
+      "rect": {
+        "x": 150,
+        "y": 304,
+        "w": 47,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Insurance eligibility",
+      "rect": {
+        "x": 455,
+        "y": 304,
+        "w": 150,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Settings",
+      "rect": {
+        "x": 797,
+        "y": 304,
+        "w": 62,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Customer support",
+      "rect": {
+        "x": 112,
+        "y": 532,
+        "w": 141,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Direct Messaging",
+      "rect": {
+        "x": 493,
+        "y": 532,
+        "w": 177,
+        "h": 30
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Template community",
+      "rect": {
+        "x": 797,
+        "y": 532,
+        "w": 165,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Practice Fusion Billing Services",
+      "rect": {
+        "x": 112,
+        "y": 760,
+        "w": 279,
+        "h": 40
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Veradigm programs",
+      "rect": {
+        "x": 455,
+        "y": 760,
+        "w": 153,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "App Marketplace",
+      "rect": {
+        "x": 797,
+        "y": 760,
+        "w": 131,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Integrated Patient Payment Solution",
+      "rect": {
+        "x": 112,
+        "y": 988,
+        "w": 279,
+        "h": 40
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Telehealth",
+      "rect": {
+        "x": 455,
+        "y": 988,
+        "w": 82,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Completed",
+      "rect": {
+        "x": 80,
+        "y": 1200,
+        "w": 1029,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Your practice",
+      "rect": {
+        "x": 150,
+        "y": 1258,
+        "w": 147,
+        "h": 30
+      }
+    }
+  ],
+  "regions": [],
+  "tables": [],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Dashboard",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home/main",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember99",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 89,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/documents",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember101",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 172,
+        "y": 30,
+        "w": 86,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Directory",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home/directory",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember103",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 262,
+        "y": 30,
+        "w": 74,
+        "h": 30
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Buy a subscription",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--primary",
+      "rect": {
+        "x": 112,
+        "y": 2,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Video tutorial",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 455,
+        "y": -74,
+        "w": 82,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add your users",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 455,
+        "y": 2,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Video tutorial",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 797,
+        "y": -94,
+        "w": 82,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add your labs",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 797,
+        "y": 2,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Video tutorial",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 112,
+        "y": 134,
+        "w": 82,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Connect imaging centers",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 112,
+        "y": 230,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Video tutorial",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 455,
+        "y": 154,
+        "w": 82,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Set up e-Prescribing",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 455,
+        "y": 230,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Learn more",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 797,
+        "y": 230,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Video tutorial",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 112,
+        "y": 362,
+        "w": 82,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Explore billing solutions",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 112,
+        "y": 458,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Set up Direct messaging",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 455,
+        "y": 686,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Learn more",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 112,
+        "y": 914,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Open App Marketplace",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "practice-dashboard-tile__btn btn--brand",
+      "rect": {
+        "x": 797,
+        "y": 914,
+        "w": 279,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Knowledge Center Bot, also known as KC Bot is an onboarding assistant that allows you to see the list of onboarding items in one place for quick and easy reference. This improves your in-app experience.",
+      "name": null,
+      "id": null,
+      "classes": "apt-widget-dragging-handle dragging-handle",
+      "rect": {
+        "x": 1202,
+        "y": 722,
+        "w": 58,
+        "h": 58
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nDashboard\n \nDocuments\n \nDirectory\nPractice dashboard\n PRACTICE SETUP\n16%\nYour practice. Our purpose.\n\nSubscribe to the Practice Fusion EHR, the leading cloud-based EHR for small practice physicians.\n\nBuy a subscription\nINCOMPLETE\nEHR users\n\nYour EHR system will improve with more users\n\nVideo tutorial\nAdd your users\nINCOMPLETE\nLabs\n\nSend orders and receive results in your EHR\n\nVideo tutorial\nAdd your labs\nINCOMPLETE\nImaging centers\n\nImages and reports viewed in your EHR\n\nVideo tutorial\nConnect imaging centers\nINCOMPLETE\ne-Prescribing\n\nSend prescriptions directly to a patient's preferred pharmacy\n\nVideo tutorial\nSet up e-Prescribing\nCPT codes license access\n\nGet access to CPT code sets by purchasing a license from Optum360, an AMA authorized distributor\n\nLearn more\nBilling\n\nCreate and send superbills from your EHR\n\nVideo tutorial\nExplore billing solutions\nInsurance eligibility\n\nInsurance eligibility is available for your practice, click here to learn more\n\nSettings\n\nManage personal and practice-level settings\n\nCustomer support\n\nLearn about popular topics, and find resources for your practice\n\nINCOMPLETE\nDirect Messaging\n\nRegister your unique Direct address\n\nSet up Direct messaging\nTemplate community\n\nFind, rate, and share charting templates with the community\n\nINCOMPLETE\nPractice Fusion Billing Services\n\nOptimize your practice's revenue and ease medical billing tasks\u2014upgrade your subscription today.\n\nLearn more\nVeradigm programs\n\nConnect to a range of programs for your EHR through the Veradigm portal\n\nApp Marketplace\n\nAdd new apps, and manage existing authorized apps\n\nOpen App Marketplace\nIntegrated Patient Payment Solution\n\nSimplify payment collection with TrustCommerce for a smooth, secure, and integrated experience.\n\nTelehealth\n\nRegister with Updox for an integrated Telehealth solution.\n\nCompleted\nCOMPLETE\nYour practice\n\nWill Demo Practice\n1158 York St\nSan Francisco, CA 94110\n\nAdvertisement",
+  "captured_at": "2026-07-13T05:39:15.087224+00:00",
+  "step_label": "after_action_2"
+}

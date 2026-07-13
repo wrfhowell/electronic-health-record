@@ -1,0 +1,406 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/list/all/2026-07-12",
+  "title": "Practice Fusion",
+  "hash": "#/PF/charts/list/all/2026-07-12",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h1",
+      "text": "None Scheduled\n<< Sunday, Jul 12th >>",
+      "rect": {
+        "x": 80,
+        "y": 60,
+        "w": 1029,
+        "h": 56
+      }
+    },
+    {
+      "level": "h3",
+      "text": "No scheduled patients found for your practice",
+      "rect": {
+        "x": 81,
+        "y": 246,
+        "w": 1027,
+        "h": 20
+      }
+    }
+  ],
+  "regions": [],
+  "tables": [
+    {
+      "headers": [],
+      "row_count": 1,
+      "rect": {
+        "x": 81,
+        "y": 182,
+        "w": 1027,
+        "h": 122
+      }
+    }
+  ],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 55
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient lists",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/list",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember650",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 93,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Steve DemoCardio",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember652",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 176,
+        "y": 30,
+        "w": 148,
+        "h": 30
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "<<",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "date-navigation__button btn--link box-margin-LRmd-v2 box-padding-An",
+      "rect": {
+        "x": 475,
+        "y": 68,
+        "w": 27,
+        "h": 40
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Sunday, Jul 12th",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "date-navigation__button btn--link box-padding-An hidden-xs hidden-sm hidden-md visible-lg-inline-block",
+      "rect": {
+        "x": 516,
+        "y": 68,
+        "w": 172,
+        "h": 40
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": ">>",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "date-navigation__button btn--link box-margin-LRmd-v2 box-padding-An",
+      "rect": {
+        "x": 703,
+        "y": 68,
+        "w": 27,
+        "h": 40
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": null,
+      "placeholder": "All providers",
+      "href": null,
+      "ariaLabel": "All providers",
+      "name": null,
+      "id": "ember5637",
+      "classes": "ember-text-field input--text composable-select__input ember-view",
+      "rect": {
+        "x": 105,
+        "y": 122,
+        "w": 126,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Scheduled",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5640",
+      "classes": "button-group__option--selected button-group__option ember-view",
+      "rect": {
+        "x": 259,
+        "y": 121,
+        "w": 83,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Recent",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5641",
+      "classes": "button-group__option ember-view",
+      "rect": {
+        "x": 341,
+        "y": 121,
+        "w": 61,
+        "h": 26
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": null,
+      "placeholder": "Search all patients",
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5647",
+      "classes": "ember-text-field input--text composable-select__input ember-view composable-select__input--multi box-padding-An",
+      "rect": {
+        "x": 534,
+        "y": 124,
+        "w": 147,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add patient",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--primary",
+      "rect": {
+        "x": 986,
+        "y": 121,
+        "w": 107,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Knowledge Center Bot, also known as KC Bot is an onboarding assistant that allows you to see the list of onboarding items in one place for quick and easy reference. This improves your in-app experience.",
+      "name": null,
+      "id": null,
+      "classes": "apt-widget-dragging-handle dragging-handle",
+      "rect": {
+        "x": 1202,
+        "y": 722,
+        "w": 58,
+        "h": 58
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nPatient lists\n \nSteve DemoCardio \nNone Scheduled\n<< Sunday, Jul 12th >>\nScheduled\nRecent\nShow inactive\nAdd patient\n\u00a0\n\t\nFIRST\n\t\nLAST\n\t\nDOB\n\t\nCONTACT INFO\n\t\nAPPT/STATUS\n\n\nNo scheduled patients found for your practice\n\nTry a different search.\n\nAdvertisement",
+  "captured_at": "2026-07-13T05:43:43.072316+00:00",
+  "step_label": "I can see the \"Scheduled\" view showing \"None Scheduled\" for Sunday Jul 12th. The"
+}

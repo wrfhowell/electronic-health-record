@@ -1,0 +1,2530 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/profile",
+  "title": "Practice Fusion",
+  "hash": "#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/profile",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Steve DemoCardio",
+      "rect": {
+        "x": 136,
+        "y": 69,
+        "w": 143,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "PRN:",
+      "rect": {
+        "x": 295,
+        "y": 71,
+        "w": 33,
+        "h": 20
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Patient",
+      "rect": {
+        "x": 113,
+        "y": -302,
+        "w": 66,
+        "h": 32
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Contact",
+      "rect": {
+        "x": 113,
+        "y": -133,
+        "w": 72,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Phone",
+      "rect": {
+        "x": 113,
+        "y": -82,
+        "w": 49,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Email",
+      "rect": {
+        "x": 113,
+        "y": 98,
+        "w": 42,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Preferred method of communication",
+      "rect": {
+        "x": 113,
+        "y": 221,
+        "w": 267,
+        "h": 48
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Appointment reminders and messaging",
+      "rect": {
+        "x": 437,
+        "y": -82,
+        "w": 290,
+        "h": 48
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Text or call patients with reminders and messages",
+      "rect": {
+        "x": 437,
+        "y": 63,
+        "w": 290,
+        "h": 40
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Address",
+      "rect": {
+        "x": 113,
+        "y": 386,
+        "w": 76,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Current address",
+      "rect": {
+        "x": 132,
+        "y": 446,
+        "w": 577,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Insurance, payment, & eligibility",
+      "rect": {
+        "x": 113,
+        "y": 609,
+        "w": 297,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Payment preference",
+      "rect": {
+        "x": 113,
+        "y": 660,
+        "w": 178,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Payment collection",
+      "rect": {
+        "x": 437,
+        "y": 660,
+        "w": 147,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Insurance & eligibility",
+      "rect": {
+        "x": 113,
+        "y": 755,
+        "w": 166,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Guarantor",
+      "rect": {
+        "x": 113,
+        "y": 902,
+        "w": 80,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Prescriptions",
+      "rect": {
+        "x": 113,
+        "y": 998,
+        "w": 122,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Preferred pharmacy",
+      "rect": {
+        "x": 113,
+        "y": 1049,
+        "w": 155,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Prescription history",
+      "rect": {
+        "x": 113,
+        "y": 1130,
+        "w": 152,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Demographics",
+      "rect": {
+        "x": 113,
+        "y": 1324,
+        "w": 158,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Race",
+      "rect": {
+        "x": 113,
+        "y": 1375,
+        "w": 37,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Ethnicity",
+      "rect": {
+        "x": 437,
+        "y": 1375,
+        "w": 67,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Preferred language",
+      "rect": {
+        "x": 437,
+        "y": 1456,
+        "w": 148,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Gender identity",
+      "rect": {
+        "x": 113,
+        "y": 1537,
+        "w": 121,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Sexual orientation",
+      "rect": {
+        "x": 437,
+        "y": 1537,
+        "w": 142,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Tribal affiliation",
+      "rect": {
+        "x": 113,
+        "y": 1612,
+        "w": 122,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Occupation",
+      "rect": {
+        "x": 113,
+        "y": 1693,
+        "w": 89,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Care team",
+      "rect": {
+        "x": 113,
+        "y": 1791,
+        "w": 96,
+        "h": 32
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Next of kin",
+      "rect": {
+        "x": 113,
+        "y": 1912,
+        "w": 101,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Patient's mother's maiden name",
+      "rect": {
+        "x": 113,
+        "y": 2024,
+        "w": 251,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Immunization registry",
+      "rect": {
+        "x": 113,
+        "y": 2130,
+        "w": 543,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Immunization registry status",
+      "rect": {
+        "x": 113,
+        "y": 2221,
+        "w": 223,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Immunization registry notification preferences",
+      "rect": {
+        "x": 113,
+        "y": 2300,
+        "w": 361,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Do you want to stop immunization registry uploads for this patient?",
+      "rect": {
+        "x": 113,
+        "y": 2379,
+        "w": 522,
+        "h": 24
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Hidden from display",
+      "rect": {
+        "x": 96,
+        "y": 2446,
+        "w": 647,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Pinned note",
+      "rect": {
+        "x": 794,
+        "y": 181,
+        "w": 93,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Notes",
+      "rect": {
+        "x": 776,
+        "y": 252,
+        "w": 317,
+        "h": 24
+      }
+    }
+  ],
+  "regions": [
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Patient\nEdit section",
+      "rect": {
+        "x": 97,
+        "y": -310,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Contact\nEdit section",
+      "rect": {
+        "x": 97,
+        "y": -141,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4852",
+      "classes": "card__header card__header--has-utils ember-view card__header--top",
+      "text_preview": "Phone\nEdit",
+      "rect": {
+        "x": 97,
+        "y": -82,
+        "w": 323,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4857",
+      "classes": "card__header card__header--has-utils ember-view card__header--top",
+      "text_preview": "Email\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 98,
+        "w": 323,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4862",
+      "classes": "card__header card__header--has-utils ember-view card__header--top",
+      "text_preview": "Preferred method of communication\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 221,
+        "w": 323,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4869",
+      "classes": "card__header ember-view",
+      "text_preview": "Appointment reminders and messaging",
+      "rect": {
+        "x": 421,
+        "y": -82,
+        "w": 322,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Address",
+      "rect": {
+        "x": 97,
+        "y": 378,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Insurance, payment, & eligibility",
+      "rect": {
+        "x": 97,
+        "y": 601,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4903",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Payment preference \nEdit",
+      "rect": {
+        "x": 97,
+        "y": 660,
+        "w": 323,
+        "h": 27
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4911",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Payment collection\nEdit",
+      "rect": {
+        "x": 421,
+        "y": 660,
+        "w": 322,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4922",
+      "classes": "card__header ember-view",
+      "text_preview": "Insurance & eligibility",
+      "rect": {
+        "x": 97,
+        "y": 755,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4941",
+      "classes": "card__header ember-view box-margin-Bmd-v2",
+      "text_preview": "Guarantor",
+      "rect": {
+        "x": 97,
+        "y": 902,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Prescriptions",
+      "rect": {
+        "x": 97,
+        "y": 990,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4951",
+      "classes": "card__header ember-view",
+      "text_preview": "Preferred pharmacy",
+      "rect": {
+        "x": 97,
+        "y": 1049,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4958",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Prescription history",
+      "rect": {
+        "x": 97,
+        "y": 1130,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Demographics \nEdit section",
+      "rect": {
+        "x": 97,
+        "y": 1316,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4975",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Race\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 1375,
+        "w": 323,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4983",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Ethnicity\nEdit",
+      "rect": {
+        "x": 421,
+        "y": 1375,
+        "w": 322,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4990",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Preferred language\nEdit",
+      "rect": {
+        "x": 421,
+        "y": 1456,
+        "w": 322,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember4996",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Gender identity \nEdit",
+      "rect": {
+        "x": 97,
+        "y": 1537,
+        "w": 323,
+        "h": 28
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5003",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Sexual orientation \nEdit",
+      "rect": {
+        "x": 421,
+        "y": 1537,
+        "w": 322,
+        "h": 28
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5011",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Tribal affiliation\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 1612,
+        "w": 323,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5018",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Occupation\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 1693,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Care team",
+      "rect": {
+        "x": 97,
+        "y": 1783,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Next of kin",
+      "rect": {
+        "x": 97,
+        "y": 1904,
+        "w": 645,
+        "h": 50
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5039",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Patient's mother's maiden name\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 2024,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card-deck__header",
+      "text_preview": "Immunization registry\nThese settings indicate to the registry the current status of this patient in relation to your practice and how this patient's information will be protected.\nEdit section",
+      "rect": {
+        "x": 97,
+        "y": 2122,
+        "w": 645,
+        "h": 90
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5049",
+      "classes": "card__header card__header--has-utils ember-view box-margin-Bmd-v2",
+      "text_preview": "Immunization registry status\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 2221,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5056",
+      "classes": "card__header card__header--has-utils ember-view box-margin-Bmd-v2",
+      "text_preview": "Immunization registry notification preferences\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 2300,
+        "w": 645,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember5063",
+      "classes": "card__header card__header--has-utils ember-view box-margin-Bmd-v2",
+      "text_preview": "Do you want to stop immunization registry uploads for this patient?\nEdit",
+      "rect": {
+        "x": 97,
+        "y": 2379,
+        "w": 645,
+        "h": 26
+      }
+    }
+  ],
+  "tables": [],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 55
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient lists",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/list",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember650",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 93,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Steve DemoCardio",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember652",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 176,
+        "y": 30,
+        "w": 148,
+        "h": 30
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add photo",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__patient-photo",
+      "rect": {
+        "x": 96,
+        "y": 68,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle patient info",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__column patient-info__button",
+      "rect": {
+        "x": 462,
+        "y": 68,
+        "w": 29,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Actions",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "actions-menu__dropdown",
+      "rect": {
+        "x": 1010,
+        "y": 74,
+        "w": 83,
+        "h": 26
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Summary",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1197",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 96,
+        "y": 108,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Summary",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/summary",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1198",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 105,
+        "y": 111,
+        "w": 58,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Timeline",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1199",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 180,
+        "y": 108,
+        "w": 70,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Timeline",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1200",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 189,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Documents",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1201",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 258,
+        "y": 108,
+        "w": 88,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/documents",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1202",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 267,
+        "y": 111,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Profile",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1203",
+      "classes": "composable-header__nav-tab composable-header__nav-tab--is-active ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 353,
+        "y": 108,
+        "w": 57,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Profile",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/profile",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1204",
+      "classes": "composable-header__nav-link active ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 362,
+        "y": 111,
+        "w": 39,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1205",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 419,
+        "y": 108,
+        "w": 133,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/payment-collection",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1206",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 428,
+        "y": 111,
+        "w": 115,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1207",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 559,
+        "y": 108,
+        "w": 102,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/ledger",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1208",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 568,
+        "y": 111,
+        "w": 84,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "07/07/2026",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1209",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 670,
+        "y": 108,
+        "w": 104,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "07/07/2026",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/encounter/93757b9f-6c8f-48ef-a33b-b75eb760521a",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1213",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 679,
+        "y": 111,
+        "w": 69,
+        "h": 21
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Close tab",
+      "name": null,
+      "id": "ember1214",
+      "classes": "composable-header__nav-tab-btn-close ember-view",
+      "rect": {
+        "x": 752,
+        "y": 112,
+        "w": 13,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 778,
+        "y": 108,
+        "w": 66,
+        "h": 26
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Open quick preview",
+      "name": null,
+      "id": null,
+      "classes": "patient-previews__icon icon-history icon-color-white",
+      "rect": {
+        "x": 778,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add pin",
+      "name": null,
+      "id": "ember1220",
+      "classes": "composable-popover-target icon-pushpin icon--md ember-view",
+      "rect": {
+        "x": 830,
+        "y": 114,
+        "w": 14,
+        "h": 14
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Display settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 96,
+        "y": 143,
+        "w": 113,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Go to...",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 217,
+        "y": 139,
+        "w": 211,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit all",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 862,
+        "y": 139,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Cancel",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 946,
+        "y": 139,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Save",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--primary",
+      "rect": {
+        "x": 1030,
+        "y": 139,
+        "w": 63,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit section",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 656,
+        "y": -293,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "NAME\nSEX\nDATE OF BIRTH\n\nSteve DemoCardio\n\nMale\n\n03/15/1943\n\nEdit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4841",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": -259,
+        "w": 323,
+        "h": 100
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 380,
+        "y": -251,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "SSN\nRECORD NUMBER\nPATIENT STATUS\n\n--\n\nSS892268\n\nActive\n\nEdit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4843",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 420,
+        "y": -259,
+        "w": 323,
+        "h": 100
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 703,
+        "y": -251,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit section",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 656,
+        "y": -124,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Phone\nEdit\nMOBILE\nHOME\nWORK\n\n(555) 555-5555\n\n(555) 555-5555\n\n--",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4851",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": -91,
+        "w": 323,
+        "h": 180
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 380,
+        "y": -82,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Email\nEdit\n\nSteve.DemoCardio@demotest.com",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4856",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 89,
+        "w": 323,
+        "h": 124
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 380,
+        "y": 98,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Preferred method of communication\nEdit\n\nProvider did not ask",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4861",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 212,
+        "w": 323,
+        "h": 148
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 380,
+        "y": 221,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Patient approves",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default box-margin-Rlg-v2",
+      "rect": {
+        "x": 437,
+        "y": 270,
+        "w": 158,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Patient declines",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Tmd-v2",
+      "rect": {
+        "x": 614,
+        "y": 273,
+        "w": 96,
+        "h": 20
+      }
+    },
+    {
+      "tag": "a",
+      "type": "button",
+      "text": "Turn on all reminders after consent collected: OFF",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "",
+      "name": null,
+      "id": "ember4885",
+      "classes": "composable-popover-target ember-view",
+      "rect": {
+        "x": 437,
+        "y": 305,
+        "w": 231,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit\nCurrent address\nADDRESS\n\n47 Peach Lane\n\nAtlanta, GA 30032\n\nSTART DATE\n\n--",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4895",
+      "classes": "card--selectable card--selectable--is-selectable ember-view",
+      "rect": {
+        "x": 113,
+        "y": 437,
+        "w": 613,
+        "h": 130
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link text-nowrap nav__pill-link",
+      "rect": {
+        "x": 678,
+        "y": 446,
+        "w": 31,
+        "h": 36
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Payment preference \nEdit\nSelf Pay",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4902",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 652,
+        "w": 323,
+        "h": 94
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 364,
+        "y": 661,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 703,
+        "y": 663,
+        "w": 23,
+        "h": 20
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "",
+      "name": null,
+      "id": "ember4918",
+      "classes": "composable-popover-target ember-view icon-info icon-color-default-dark box-margin-Lsm-v2",
+      "rect": {
+        "x": 516,
+        "y": 689,
+        "w": 13,
+        "h": 18
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Insurance & eligibility\nELIGIBILITY LAST CHECKED\n\nNot available\n\nSELECT PROVIDER\nSelect\nCheck\nAdd insurance payer",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4921",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 747,
+        "w": 645,
+        "h": 146
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "",
+      "name": null,
+      "id": "ember4930",
+      "classes": "composable-popover-target ember-view icon-info icon-color-default-dark box-margin-Lsm-v2",
+      "rect": {
+        "x": 531,
+        "y": 792,
+        "w": 13,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Select",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 424,
+        "y": 813,
+        "w": 223,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Check",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 654,
+        "y": 813,
+        "w": 72,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add insurance payer",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 113,
+        "y": 857,
+        "w": 143,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Guarantor\nAdd guarantor",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4940",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 894,
+        "w": 645,
+        "h": 78
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add guarantor",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 113,
+        "y": 936,
+        "w": 106,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Preferred pharmacy\n Add pharmacy",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4950",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1041,
+        "w": 645,
+        "h": 80
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add pharmacy",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 113,
+        "y": 1085,
+        "w": 104,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "radio",
+      "text": "Patient gives consent to retrieve prescription history when request is triggered",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4965",
+      "classes": "radio-button ember-view",
+      "rect": {
+        "x": 113,
+        "y": 1234,
+        "w": 613,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "radio",
+      "text": "Patient does not give consent to retrieve prescription history when request is triggered",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4966",
+      "classes": "radio-button ember-view",
+      "rect": {
+        "x": 113,
+        "y": 1254,
+        "w": 613,
+        "h": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4970",
+      "classes": "popover-info__target icon--md icon-info icon-color-default-dark box-margin-Lsm-v2 ember-view",
+      "rect": {
+        "x": 257,
+        "y": 1334,
+        "w": 14,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit section",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 640,
+        "y": 1330,
+        "w": 86,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Race\nEdit\n\nProvider did not ask",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4974",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1366,
+        "w": 323,
+        "h": 162
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 364,
+        "y": 1375,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Ethnicity\nEdit\n\nProvider did not ask",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4982",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 421,
+        "y": 1366,
+        "w": 322,
+        "h": 81
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 1375,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Preferred language\nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4989",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 421,
+        "y": 1447,
+        "w": 322,
+        "h": 81
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 1456,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Gender identity \nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember4995",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1529,
+        "w": 323,
+        "h": 74
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 364,
+        "y": 1538,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Sexual orientation \nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5002",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 420,
+        "y": 1529,
+        "w": 323,
+        "h": 74
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 1538,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Tribal affiliation\nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5010",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1604,
+        "w": 323,
+        "h": 80
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 364,
+        "y": 1612,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Occupation\nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5017",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1685,
+        "w": 645,
+        "h": 80
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 1693,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Add provider",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5027",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1834,
+        "w": 645,
+        "h": 52
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add provider",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Tmd-v2",
+      "rect": {
+        "x": 113,
+        "y": 1850,
+        "w": 97,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Add next of kin",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5034",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 1955,
+        "w": 645,
+        "h": 60
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add next of kin",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Tmd-v2",
+      "rect": {
+        "x": 113,
+        "y": 1971,
+        "w": 108,
+        "h": 28
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Patient's mother's maiden name\nEdit\n\nNothing recorded",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5038",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 2016,
+        "w": 645,
+        "h": 88
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 2024,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit section",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 656,
+        "y": 2139,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Immunization registry status\nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5048",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 2213,
+        "w": 645,
+        "h": 78
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 2221,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Immunization registry notification preferences\nEdit\n\nNothing selected",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5055",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 2292,
+        "w": 645,
+        "h": 78
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 2300,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Do you want to stop immunization registry uploads for this patient?\nEdit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5062",
+      "classes": "card card--clickable ember-view",
+      "rect": {
+        "x": 97,
+        "y": 2371,
+        "w": 645,
+        "h": 58
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn-link",
+      "rect": {
+        "x": 687,
+        "y": 2379,
+        "w": 39,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Display settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 96,
+        "y": 2508,
+        "w": 113,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 896,
+        "y": 185,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember5070",
+      "classes": "ember-text-area input--text input--textarea text-area-counter__textarea--fill ember-view",
+      "rect": {
+        "x": 776,
+        "y": 280,
+        "w": 317,
+        "h": 488
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Knowledge Center Bot, also known as KC Bot is an onboarding assistant that allows you to see the list of onboarding items in one place for quick and easy reference. This improves your in-app experience.",
+      "name": null,
+      "id": null,
+      "classes": "apt-widget-dragging-handle dragging-handle",
+      "rect": {
+        "x": 1202,
+        "y": 722,
+        "w": 58,
+        "h": 58
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nPatient lists\n \nSteve DemoCardio \nSteve DemoCardio\nPRN:\u00a0\nSS892268\n83 yrs M\nActions\nSummary\nTimeline\nDocuments\nProfile\nPayment collection\nPatient ledger\n07/07/2026\nDisplay settings\nGo to...\nEdit all\nCancel\nSave\nPatient\nEdit section\nNAME\nSEX\nDATE OF BIRTH\n\nSteve DemoCardio\n\nMale\n\n03/15/1943\n\nEdit\nSSN\nRECORD NUMBER\nPATIENT STATUS\n\n--\n\nSS892268\n\nActive\n\nEdit\nContact\nEdit section\nPhone\nEdit\nMOBILE\nHOME\nWORK\n\n(555) 555-5555\n\n(555) 555-5555\n\n--\n\nEmail\nEdit\n\nSteve.DemoCardio@demotest.com\n\nPreferred method of communication\nEdit\n\nProvider did not ask\n\nAppointment reminders and messaging\n Practice setting is OFF, Reminders will not send.\nEmail reminders and messaging \nText or call patients with reminders and messages\n\nRecord patient's consent and approval to turn on text and voice reminders and messages for this patient\n\nText / SMS reminders and messaging \nVoice reminders and messaging \nPatient approves Patient declines\n Turn on all reminders after consent collected: OFF\nAddress\nEdit\nCurrent address\nADDRESS\n\n47 Peach Lane\n\nAtlanta, GA 30032\n\nSTART DATE\n\n--\n\nInsurance, payment, & eligibility\nPayment preference \nEdit\nSelf Pay\nPayment collection\nEdit\nBALANCE DUE\n$0.00\nInsurance & eligibility\nELIGIBILITY LAST CHECKED\n\nNot available\n\nSELECT PROVIDER\nSelect\nCheck\nAdd insurance payer\nGuarantor\nAdd guarantor\nPrescriptions\nPreferred pharmacy\n Add pharmacy\nPrescription history\n\nWith patient consent recorded, each time you schedule an appointment with a patient or order a medication, you can view prescription history, if available, and reconcile medications. You can view prescription history reports and reconcile medications by going to the Actions menu or Reports.\n\nPatient gives consent to retrieve prescription history when request is triggered\nPatient does not give consent to retrieve prescription history when request is triggered\nDemographics \nEdit section\nRace\nEdit\n\nProvider did not ask\n\nEthnicity\nEdit\n\nProvider did not ask\n\nPreferred language\nEdit\n\nNothing selected\n\nGender identity \nEdit\n\nNothing selected\n\nSexual orientation \nEdit\n\nNothing selected\n\nTribal affiliation\nEdit\n\nNothing selected\n\nOccupation\nEdit\n\nNothing selected\n\nCare team\nAdd provider\nNext of kin\n Add next of kin\nPatient's mother's maiden name\nEdit\n\nNothing recorded\n\nImmunization registry\nThese settings indicate to the registry the current status of this patient in relation to your practice and how this patient's information will be protected.\nEdit section\nImmunization registry status\nEdit\n\nNothing selected\n\nImmunization registry notification preferences\nEdit\n\nNothing selected\n\nDo you want to stop immunization registry uploads for this patient?\nEdit\n\nHidden from display\n\nNothing hidden\n\nDisplay settings\nPinned note\n\nNo pinned note for this patient\n\nNotes\n\n0/2000\n\nAdvertisement",
+  "captured_at": "2026-07-13T05:42:54.717310+00:00",
+  "step_label": "I can see Address, Insurance/payment/eligibility sections. Let me continue scrol"
+}

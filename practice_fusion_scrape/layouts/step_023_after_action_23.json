@@ -1,0 +1,4600 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/encounter/93757b9f-6c8f-48ef-a33b-b75eb760521a",
+  "title": "Practice Fusion",
+  "hash": "#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/encounter/93757b9f-6c8f-48ef-a33b-b75eb760521a",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Steve DemoCardio",
+      "rect": {
+        "x": 136,
+        "y": 69,
+        "w": 143,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "PRN:",
+      "rect": {
+        "x": 295,
+        "y": 71,
+        "w": 33,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Flowsheets",
+      "rect": {
+        "x": 105,
+        "y": 278,
+        "w": 112,
+        "h": 25
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Practice",
+      "rect": {
+        "x": 105,
+        "y": 305,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Launch SMART app",
+      "rect": {
+        "x": 105,
+        "y": 393,
+        "w": 147,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Diagnoses",
+      "rect": {
+        "x": 105,
+        "y": 516,
+        "w": 105,
+        "h": 25
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Chronic",
+      "rect": {
+        "x": 105,
+        "y": 543,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Patient risk score",
+      "rect": {
+        "x": 105,
+        "y": 679,
+        "w": 160,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Social history",
+      "rect": {
+        "x": 105,
+        "y": 767,
+        "w": 103,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Tobacco use",
+      "rect": {
+        "x": 105,
+        "y": 793,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Social history (free text)",
+      "rect": {
+        "x": 105,
+        "y": 835,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Gender identity",
+      "rect": {
+        "x": 105,
+        "y": 901,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Sexual orientation",
+      "rect": {
+        "x": 105,
+        "y": 944,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Nutrition history",
+      "rect": {
+        "x": 105,
+        "y": 986,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Pregnancy status",
+      "rect": {
+        "x": 105,
+        "y": 1029,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Pregnancy intent",
+      "rect": {
+        "x": 105,
+        "y": 1072,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Food insecurity risk - HVS",
+      "rect": {
+        "x": 105,
+        "y": 1114,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Family health history",
+      "rect": {
+        "x": 105,
+        "y": 1199,
+        "w": 189,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Past medical history",
+      "rect": {
+        "x": 105,
+        "y": 1288,
+        "w": 156,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Major events",
+      "rect": {
+        "x": 105,
+        "y": 1314,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Ongoing medical problems",
+      "rect": {
+        "x": 105,
+        "y": 1357,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Preventive care",
+      "rect": {
+        "x": 105,
+        "y": 1423,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Social history (free text)",
+      "rect": {
+        "x": 105,
+        "y": 1489,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Nutrition history",
+      "rect": {
+        "x": 105,
+        "y": 1555,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Developmental history",
+      "rect": {
+        "x": 105,
+        "y": 1597,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Advance directives",
+      "rect": {
+        "x": 105,
+        "y": 1682,
+        "w": 170,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Allergies",
+      "rect": {
+        "x": 105,
+        "y": 1770,
+        "w": 92,
+        "h": 25
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Drug",
+      "rect": {
+        "x": 105,
+        "y": 1797,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Food",
+      "rect": {
+        "x": 105,
+        "y": 1843,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Environmental",
+      "rect": {
+        "x": 105,
+        "y": 1887,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Medications Record Prescribe",
+      "rect": {
+        "x": 105,
+        "y": 1972,
+        "w": 218,
+        "h": 25
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Patient Medications (2)",
+      "rect": {
+        "x": 105,
+        "y": 2006,
+        "w": 144,
+        "h": 18
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Screenings/ Interventions/ Assessments",
+      "rect": {
+        "x": 105,
+        "y": 2175,
+        "w": 289,
+        "h": 48
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Implantable devices",
+      "rect": {
+        "x": 105,
+        "y": 2306,
+        "w": 181,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Health concerns",
+      "rect": {
+        "x": 105,
+        "y": 2395,
+        "w": 152,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Goals",
+      "rect": {
+        "x": 105,
+        "y": 2510,
+        "w": 69,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Encounters",
+      "rect": {
+        "x": 105,
+        "y": 2599,
+        "w": 87,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Messages",
+      "rect": {
+        "x": 105,
+        "y": 2987,
+        "w": 101,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Appointments",
+      "rect": {
+        "x": 105,
+        "y": 3095,
+        "w": 110,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Upcoming",
+      "rect": {
+        "x": 105,
+        "y": 3121,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Past",
+      "rect": {
+        "x": 105,
+        "y": 3189,
+        "w": 289,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Encounter details",
+      "rect": {
+        "x": 445,
+        "y": -161,
+        "w": 135,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Chief complaint",
+      "rect": {
+        "x": 445,
+        "y": 131,
+        "w": 122,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Health concerns",
+      "rect": {
+        "x": 445,
+        "y": 251,
+        "w": 126,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Flowsheets  Add US Customary  Show growth charts",
+      "rect": {
+        "x": 445,
+        "y": 584,
+        "w": 405,
+        "h": 25
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Vitals",
+      "rect": {
+        "x": 445,
+        "y": 611,
+        "w": 64,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Medications",
+      "rect": {
+        "x": 445,
+        "y": 1113,
+        "w": 94,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Patient Medications (2)",
+      "rect": {
+        "x": 445,
+        "y": 1198,
+        "w": 144,
+        "h": 18
+      }
+    },
+    {
+      "level": "h5",
+      "text": "SCRIPT (RECORDED):",
+      "rect": {
+        "x": 1063,
+        "y": 1252,
+        "w": 105,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "PRESCRIBER:",
+      "rect": {
+        "x": 1232,
+        "y": 1252,
+        "w": 65,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "REFILLS:",
+      "rect": {
+        "x": 1132,
+        "y": 1272,
+        "w": 42,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "QUANTITY:",
+      "rect": {
+        "x": 1192,
+        "y": 1272,
+        "w": 56,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "SCRIPT (RECORDED):",
+      "rect": {
+        "x": 1063,
+        "y": 1349,
+        "w": 105,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "PRESCRIBER:",
+      "rect": {
+        "x": 1232,
+        "y": 1349,
+        "w": 65,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "REFILLS:",
+      "rect": {
+        "x": 1132,
+        "y": 1369,
+        "w": 42,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "QUANTITY:",
+      "rect": {
+        "x": 1192,
+        "y": 1369,
+        "w": 56,
+        "h": 20
+      }
+    },
+    {
+      "level": "h2",
+      "text": "Note",
+      "rect": {
+        "x": 444,
+        "y": 1505,
+        "w": 45,
+        "h": 32
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Subjective",
+      "rect": {
+        "x": 445,
+        "y": 1562,
+        "w": 79,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Subjective note",
+      "rect": {
+        "x": 445,
+        "y": 1588,
+        "w": 96,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Objective",
+      "rect": {
+        "x": 445,
+        "y": 2063,
+        "w": 73,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Objective note",
+      "rect": {
+        "x": 445,
+        "y": 2091,
+        "w": 91,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Assessment",
+      "rect": {
+        "x": 445,
+        "y": 2528,
+        "w": 92,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Assessment note",
+      "rect": {
+        "x": 445,
+        "y": 2556,
+        "w": 107,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Plan",
+      "rect": {
+        "x": 445,
+        "y": 2810,
+        "w": 34,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Plan note",
+      "rect": {
+        "x": 445,
+        "y": 2836,
+        "w": 60,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Medications/Prescription orders attached to encounter",
+      "rect": {
+        "x": 445,
+        "y": 3029,
+        "w": 346,
+        "h": 18
+      }
+    },
+    {
+      "level": "h5",
+      "text": "START:",
+      "rect": {
+        "x": 462,
+        "y": 3154,
+        "w": 35,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "STOP:",
+      "rect": {
+        "x": 462,
+        "y": 3174,
+        "w": 30,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "SIG:",
+      "rect": {
+        "x": 462,
+        "y": 3194,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "SCRIPT (RECORDED):",
+      "rect": {
+        "x": 462,
+        "y": 3214,
+        "w": 105,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "PRESCRIBER:",
+      "rect": {
+        "x": 631,
+        "y": 3214,
+        "w": 65,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "REFILLS:",
+      "rect": {
+        "x": 768,
+        "y": 3214,
+        "w": 42,
+        "h": 20
+      }
+    },
+    {
+      "level": "h5",
+      "text": "QUANTITY:",
+      "rect": {
+        "x": 827,
+        "y": 3214,
+        "w": 56,
+        "h": 20
+      }
+    },
+    {
+      "level": "h4",
+      "text": "Care plan",
+      "rect": {
+        "x": 445,
+        "y": 3285,
+        "w": 60,
+        "h": 20
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Documents attached to encounter",
+      "rect": {
+        "x": 445,
+        "y": 3533,
+        "w": 265,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Quality of care",
+      "rect": {
+        "x": 445,
+        "y": 3627,
+        "w": 113,
+        "h": 24
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Referral Add Refresh referrals",
+      "rect": {
+        "x": 445,
+        "y": 4051,
+        "w": 256,
+        "h": 25
+      }
+    },
+    {
+      "level": "h3",
+      "text": "Superbill",
+      "rect": {
+        "x": 445,
+        "y": 4139,
+        "w": 68,
+        "h": 24
+      }
+    }
+  ],
+  "regions": [
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1601",
+      "classes": "card__header ember-view",
+      "text_preview": "Flowsheets",
+      "rect": {
+        "x": 89,
+        "y": 278,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1607",
+      "classes": "card__header ember-view",
+      "text_preview": "Launch SMART app",
+      "rect": {
+        "x": 89,
+        "y": 393,
+        "w": 321,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1614",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Diagnoses",
+      "rect": {
+        "x": 89,
+        "y": 516,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1628",
+      "classes": "card__header ember-view",
+      "text_preview": "Patient risk score",
+      "rect": {
+        "x": 89,
+        "y": 679,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card__header",
+      "text_preview": "Social history",
+      "rect": {
+        "x": 89,
+        "y": 767,
+        "w": 321,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1642",
+      "classes": "card__header ember-view",
+      "text_preview": "Family health history",
+      "rect": {
+        "x": 89,
+        "y": 1199,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1649",
+      "classes": "card__header ember-view",
+      "text_preview": "Past medical history",
+      "rect": {
+        "x": 89,
+        "y": 1288,
+        "w": 321,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1657",
+      "classes": "card__header ember-view",
+      "text_preview": "Advance directives",
+      "rect": {
+        "x": 89,
+        "y": 1682,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1665",
+      "classes": "card__header ember-view",
+      "text_preview": "Allergies",
+      "rect": {
+        "x": 89,
+        "y": 1770,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1676",
+      "classes": "card__header ember-view",
+      "text_preview": "Medications Record Prescribe",
+      "rect": {
+        "x": 89,
+        "y": 1972,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1684",
+      "classes": "card__header ember-view",
+      "text_preview": "Screenings/ Interventions/ Assessments",
+      "rect": {
+        "x": 89,
+        "y": 2175,
+        "w": 321,
+        "h": 48
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1691",
+      "classes": "card__header ember-view",
+      "text_preview": "Implantable devices",
+      "rect": {
+        "x": 89,
+        "y": 2306,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1698",
+      "classes": "card__header ember-view",
+      "text_preview": "Health concerns",
+      "rect": {
+        "x": 89,
+        "y": 2395,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1705",
+      "classes": "card__header ember-view",
+      "text_preview": "Goals",
+      "rect": {
+        "x": 89,
+        "y": 2510,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1712",
+      "classes": "card__header ember-view",
+      "text_preview": "Encounters",
+      "rect": {
+        "x": 89,
+        "y": 2599,
+        "w": 321,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1718",
+      "classes": "card__header ember-view",
+      "text_preview": "Messages",
+      "rect": {
+        "x": 89,
+        "y": 2987,
+        "w": 321,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1724",
+      "classes": "card__header ember-view",
+      "text_preview": "Appointments",
+      "rect": {
+        "x": 89,
+        "y": 3095,
+        "w": 321,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1313",
+      "classes": "card__header ember-view",
+      "text_preview": "Encounter details",
+      "rect": {
+        "x": 429,
+        "y": -161,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1402",
+      "classes": "card__header ember-view",
+      "text_preview": "Chief complaint",
+      "rect": {
+        "x": 429,
+        "y": 131,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1408",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Health concerns\n Add\nPrint\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 251,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1421",
+      "classes": "card__header card__header--has-utils ember-view encounter-flowsheet__header",
+      "text_preview": "Flowsheets  Add US Customary  Show growth charts\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 584,
+        "w": 671,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1429",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Medications\nRecord\nPrescribe\nShow\nPrint\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 1113,
+        "w": 671,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1439",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Subjective\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 1562,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1453",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Objective\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 2063,
+        "w": 671,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1474",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Assessment\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 2528,
+        "w": 671,
+        "h": 26
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1506",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Plan\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 2810,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1548",
+      "classes": "card__header ember-view",
+      "text_preview": "Documents attached to encounter\nAdd",
+      "rect": {
+        "x": 429,
+        "y": 3533,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1554",
+      "classes": "card__header card__header--has-utils ember-view",
+      "text_preview": "Quality of care\nMinimize",
+      "rect": {
+        "x": 429,
+        "y": 3627,
+        "w": 671,
+        "h": 24
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": "card__header",
+      "text_preview": "Referral Add Refresh referrals",
+      "rect": {
+        "x": 429,
+        "y": 4051,
+        "w": 671,
+        "h": 25
+      }
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": "ember1591",
+      "classes": "card__header ember-view",
+      "text_preview": "Superbill\nAdd",
+      "rect": {
+        "x": 429,
+        "y": 4139,
+        "w": 671,
+        "h": 24
+      }
+    }
+  ],
+  "tables": [
+    {
+      "headers": [],
+      "row_count": 2,
+      "rect": {
+        "x": 446,
+        "y": 3083,
+        "w": 637,
+        "h": 159
+      }
+    }
+  ],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 55
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient lists",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/list",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember650",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 93,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Steve DemoCardio",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember652",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 176,
+        "y": 30,
+        "w": 148,
+        "h": 30
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add photo",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__patient-photo",
+      "rect": {
+        "x": 96,
+        "y": 68,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle patient info",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__column patient-info__button",
+      "rect": {
+        "x": 462,
+        "y": 68,
+        "w": 29,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Actions",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "actions-menu__dropdown",
+      "rect": {
+        "x": 1010,
+        "y": 74,
+        "w": 83,
+        "h": 26
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Summary",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1197",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 96,
+        "y": 108,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Summary",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/summary",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1198",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 105,
+        "y": 111,
+        "w": 58,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Timeline",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1199",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 180,
+        "y": 108,
+        "w": 70,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Timeline",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1200",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 189,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Documents",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1201",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 258,
+        "y": 108,
+        "w": 88,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/documents",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1202",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 267,
+        "y": 111,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Profile",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1203",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 353,
+        "y": 108,
+        "w": 57,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Profile",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/profile",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1204",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 362,
+        "y": 111,
+        "w": 39,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1205",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 419,
+        "y": 108,
+        "w": 133,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/payment-collection",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1206",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 428,
+        "y": 111,
+        "w": 115,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1207",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 559,
+        "y": 108,
+        "w": 102,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/ledger",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1208",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 568,
+        "y": 111,
+        "w": 84,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "07/07/2026",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1209",
+      "classes": "composable-header__nav-tab composable-header__nav-tab--is-active ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 670,
+        "y": 108,
+        "w": 104,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "07/07/2026",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/encounter/93757b9f-6c8f-48ef-a33b-b75eb760521a",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1213",
+      "classes": "composable-header__nav-link active ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 679,
+        "y": 111,
+        "w": 69,
+        "h": 21
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Close tab",
+      "name": null,
+      "id": "ember1214",
+      "classes": "composable-header__nav-tab-btn-close composable-header__nav-tab-btn-close--is-active ember-view",
+      "rect": {
+        "x": 752,
+        "y": 112,
+        "w": 13,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 778,
+        "y": 108,
+        "w": 66,
+        "h": 26
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Open quick preview",
+      "name": null,
+      "id": null,
+      "classes": "patient-previews__icon icon-history icon-color-white",
+      "rect": {
+        "x": 778,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add pin",
+      "name": null,
+      "id": "ember1220",
+      "classes": "composable-popover-target icon-pushpin icon--md ember-view",
+      "rect": {
+        "x": 830,
+        "y": 114,
+        "w": 14,
+        "h": 14
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Display settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 96,
+        "y": 143,
+        "w": 113,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Refresh encounter",
+      "name": null,
+      "id": null,
+      "classes": "btn--default encounter-refresh-btn",
+      "rect": {
+        "x": 217,
+        "y": 139,
+        "w": 48,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Go to...",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 368,
+        "y": 139,
+        "w": 87,
+        "h": 26
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": null,
+      "placeholder": "Search",
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1159",
+      "classes": "ember-text-field input--text composable-select__input ember-view",
+      "rect": {
+        "x": 463,
+        "y": 139,
+        "w": 131,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Search encounter",
+      "name": null,
+      "id": "ember1160",
+      "classes": "composable-select__search-btn ember-view",
+      "rect": {
+        "x": 594,
+        "y": 139,
+        "w": 22,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default btn--icon",
+      "rect": {
+        "x": 857,
+        "y": 139,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Print",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 889,
+        "y": 139,
+        "w": 65,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Save",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--default",
+      "rect": {
+        "x": 962,
+        "y": 139,
+        "w": 63,
+        "h": 26
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": "Sign",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "",
+      "name": null,
+      "id": "ember1170",
+      "classes": "composable-popover-target ember-view",
+      "rect": {
+        "x": 1033,
+        "y": 139,
+        "w": 60,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Sign",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1171",
+      "classes": "btn-authorized-feature ember-view btn--primary",
+      "rect": {
+        "x": 1033,
+        "y": 139,
+        "w": 60,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "4 total notifications",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 982,
+        "y": 185,
+        "w": 117,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Refresh",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 90,
+        "y": 185,
+        "w": 46,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Summary",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "menu-rollup__btn__text",
+      "rect": {
+        "x": 80,
+        "y": 214,
+        "w": 76,
+        "h": 36
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Templates",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "menu-rollup__btn__text",
+      "rect": {
+        "x": 156,
+        "y": 214,
+        "w": 81,
+        "h": 36
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Past encounters",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "menu-rollup__btn__text",
+      "rect": {
+        "x": 238,
+        "y": 214,
+        "w": 118,
+        "h": 36
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "More options",
+      "name": null,
+      "id": null,
+      "classes": "nav-item icon-ellipsis btn",
+      "rect": {
+        "x": 355,
+        "y": 214,
+        "w": 32,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 203,
+        "y": 279,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "div",
+      "type": "link",
+      "text": "Vitals",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 329,
+        "w": 249,
+        "h": 20
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Vitals",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 330,
+        "w": 32,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Go to the app marketplace",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 105,
+        "y": 427,
+        "w": 162,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add diagnosis",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 196,
+        "y": 517,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add risk score",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 251,
+        "y": 680,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 194,
+        "y": 793,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "link",
+      "text": "40 pack-year history (quit smoking 3/2009).",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 859,
+        "w": 249,
+        "h": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "40 pack-year history (quit smoking 3/2009).",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "box-margin-Rmd-v2 text-wrap",
+      "rect": {
+        "x": 125,
+        "y": 860,
+        "w": 208,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 214,
+        "y": 901,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 232,
+        "y": 944,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 221,
+        "y": 986,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 224,
+        "y": 1029,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 223,
+        "y": 1072,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add behavioral-health",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 275,
+        "y": 1114,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add family history",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 280,
+        "y": 1200,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add past-medical-history",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 198,
+        "y": 1314,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "div",
+      "type": "link",
+      "text": "Congestive Heart Failure NYHA Class II, Hypertension, DM Type II",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 1381,
+        "w": 249,
+        "h": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Congestive Heart Failure NYHA Class II, Hypertension, DM Type II",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "box-margin-Rmd-v2 text-wrap",
+      "rect": {
+        "x": 125,
+        "y": 1382,
+        "w": 235,
+        "h": 38
+      }
+    },
+    {
+      "tag": "div",
+      "type": "link",
+      "text": "Influenza Vaccine (10/1/12), Pneumovax (1/4/12)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 1447,
+        "w": 249,
+        "h": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Influenza Vaccine (10/1/12), Pneumovax (1/4/12)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "box-margin-Rmd-v2 text-wrap",
+      "rect": {
+        "x": 125,
+        "y": 1448,
+        "w": 241,
+        "h": 38
+      }
+    },
+    {
+      "tag": "div",
+      "type": "link",
+      "text": "40 pack-year history (quit smoking 3/2009).",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 1513,
+        "w": 249,
+        "h": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "40 pack-year history (quit smoking 3/2009).",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "box-margin-Rmd-v2 text-wrap",
+      "rect": {
+        "x": 125,
+        "y": 1514,
+        "w": 208,
+        "h": 38
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add past-medical-history",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 221,
+        "y": 1555,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add past-medical-history",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 259,
+        "y": 1597,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record advanced directive",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 262,
+        "y": 1683,
+        "w": 13,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add allergy",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 183,
+        "y": 1771,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Record",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record medication",
+      "name": null,
+      "id": null,
+      "classes": "btn--link ib box-margin-Lmd-v2",
+      "rect": {
+        "x": 211,
+        "y": 1973,
+        "w": 43,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Prescribe",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Prescribe medication",
+      "name": null,
+      "id": null,
+      "classes": "btn--link ib box-margin-Lmd-v2",
+      "rect": {
+        "x": 266,
+        "y": 1973,
+        "w": 57,
+        "h": 24
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Furosemide (Lasix)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 2028,
+        "w": 113,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Lisinopril",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 2072,
+        "w": 55,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Show historical (2)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 105,
+        "y": 2115,
+        "w": 110,
+        "h": 19
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Learn more",
+      "placeholder": null,
+      "href": "https://help.practicefusion.com/s/article/What-are-Screenings-Interventions-Assessments",
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 316,
+        "y": 2245,
+        "w": 70,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record device",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 272,
+        "y": 2307,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record health concern",
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 235,
+        "y": 2396,
+        "w": 22,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add a health concern note",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 105,
+        "y": 2422,
+        "w": 177,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add goal",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 160,
+        "y": 2511,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add message",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 192,
+        "y": 2988,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Go to messages",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 105,
+        "y": 3034,
+        "w": 96,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Jul 27, 2026 - 09:00 AM Follow-Up Visit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 3146,
+        "w": 229,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Apr 23, 2026 - 03:30 PM Follow-Up Visit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 125,
+        "y": 3214,
+        "w": 236,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "View all appointments in timeline",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline/appointments",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1727",
+      "classes": "ember-view",
+      "rect": {
+        "x": 105,
+        "y": 3258,
+        "w": 201,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle panel",
+      "name": null,
+      "id": null,
+      "classes": "encounter-panel__collapse-btn",
+      "rect": {
+        "x": 404,
+        "y": 217,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Go to",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 1020,
+        "y": 728,
+        "w": 50,
+        "h": 32
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "185349003 (SNOMED-CT) - Office Visit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 445,
+        "y": -109,
+        "w": 521,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "SOAP Note",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 974,
+        "y": -109,
+        "w": 110,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Today",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link pull-right",
+      "rect": {
+        "x": 532,
+        "y": -75,
+        "w": 37,
+        "h": 19
+      }
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "text": "07/07/2026",
+      "placeholder": "MM/DD/YYYY",
+      "href": null,
+      "ariaLabel": "Date picker",
+      "name": null,
+      "id": "ember1362",
+      "classes": "input--text ember-text-field input--date-time date-picker--short-year ember-view",
+      "rect": {
+        "x": 445,
+        "y": -53,
+        "w": 124,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle calendar",
+      "name": null,
+      "id": null,
+      "classes": "btn--link date-picker__icon",
+      "rect": {
+        "x": 547,
+        "y": -53,
+        "w": 14,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Will Demo",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 690,
+        "y": -53,
+        "w": 143,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Will Demo Practice",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 445,
+        "y": 3,
+        "w": 143,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Self-Pay popover",
+      "name": null,
+      "id": "ember1374",
+      "classes": "btn--link box-margin-Lsm-v2 pull-left composable-popover-target ember-view",
+      "rect": {
+        "x": 782,
+        "y": -19,
+        "w": 14,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lsm-v2 pull-left",
+      "rect": {
+        "x": 800,
+        "y": -19,
+        "w": 23,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Appointment linking info",
+      "name": null,
+      "id": "ember1382",
+      "classes": "composable-popover-target ember-view btn--link",
+      "rect": {
+        "x": 529,
+        "y": 37,
+        "w": 14,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "No qualifying appointment to select",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 449,
+        "y": 59,
+        "w": 260,
+        "h": 26
+      }
+    },
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "text": "Hard to breathe",
+      "placeholder": "Add any problems or symptoms here",
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "input-chief-complaint",
+      "classes": "ember-text-area input--text input--textarea ember-view encounter-panel__chief-complaint__card-content",
+      "rect": {
+        "x": 445,
+        "y": 163,
+        "w": 639,
+        "h": 46
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record health concern",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-LRmd-v2",
+      "rect": {
+        "x": 578,
+        "y": 251,
+        "w": 42,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Print",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice\n            \n            composable-select__choice--borderless",
+      "rect": {
+        "x": 644,
+        "y": 253,
+        "w": 69,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 254,
+        "w": 55,
+        "h": 19
+      }
+    },
+    {
+      "tag": "textarea",
+      "type": "textarea",
+      "text": null,
+      "placeholder": "4000 characters maximum",
+      "href": null,
+      "ariaLabel": "Health concern note",
+      "name": null,
+      "id": "ember1729",
+      "classes": "ember-text-area input--text input--textarea text-area-counter__textarea--medium ember-view",
+      "rect": {
+        "x": 445,
+        "y": 283,
+        "w": 639,
+        "h": 208
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Rlg-v2",
+      "rect": {
+        "x": 543,
+        "y": 585,
+        "w": 42,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "US Customary",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 605,
+        "y": 585,
+        "w": 86,
+        "h": 24
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Metric popover",
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 695,
+        "y": 585,
+        "w": 14,
+        "h": 24
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Show growth charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/growthcharts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember1831",
+      "classes": "ember-view",
+      "rect": {
+        "x": 729,
+        "y": 588,
+        "w": 120,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 587,
+        "w": 55,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Flowsheet details",
+      "name": null,
+      "id": "ember1834",
+      "classes": "composable-popover-target ember-view btn--link\n            box-margin-Rmd-v2 box-margin-Lsm-v2",
+      "rect": {
+        "x": 486,
+        "y": 611,
+        "w": 14,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add column",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Rlg-v2",
+      "rect": {
+        "x": 512,
+        "y": 611,
+        "w": 73,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Last 5 encounters or labs",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice\n            \n            composable-select__choice--borderless",
+      "rect": {
+        "x": 604,
+        "y": 611,
+        "w": 174,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Print",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Rlg-v2",
+      "rect": {
+        "x": 798,
+        "y": 611,
+        "w": 47,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Edit",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Rlg-v2",
+      "rect": {
+        "x": 864,
+        "y": 611,
+        "w": 41,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Refresh",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Rlg-v2",
+      "rect": {
+        "x": 924,
+        "y": 611,
+        "w": 64,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1008,
+        "y": 611,
+        "w": 55,
+        "h": 20
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "icon icon-add",
+      "rect": {
+        "x": 964,
+        "y": 659,
+        "w": 13,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Record",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Record medication",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 547,
+        "y": 1113,
+        "w": 43,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Prescribe",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Prescribe medication",
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Lmd-v2",
+      "rect": {
+        "x": 597,
+        "y": 1113,
+        "w": 57,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Show",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice\n            \n            composable-select__choice--borderless",
+      "rect": {
+        "x": 670,
+        "y": 1116,
+        "w": 55,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Print",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice\n            \n            composable-select__choice--borderless",
+      "rect": {
+        "x": 741,
+        "y": 1116,
+        "w": 69,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 1116,
+        "w": 55,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Select...",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 445,
+        "y": 1163,
+        "w": 264,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": "button",
+      "text": "Furosemide (Lasix)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 462,
+        "y": 1253,
+        "w": 117,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": "button",
+      "text": "Lisinopril",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 462,
+        "y": 1350,
+        "w": 59,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Show historical (2)",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-margin-Tmd-v2",
+      "rect": {
+        "x": 445,
+        "y": 1460,
+        "w": 110,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Import past encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 500,
+        "y": 1514,
+        "w": 137,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 1564,
+        "w": 55,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View templates",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 552,
+        "y": 1589,
+        "w": 100,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Import past encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 656,
+        "y": 1589,
+        "w": 145,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "P",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 450,
+        "y": 1619,
+        "w": 44,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Bold",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 501,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Italic",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 526,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Decrease font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 560,
+        "y": 1619,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Increase font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 584,
+        "y": 1619,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert unordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 616,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert ordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 641,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Indent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 674,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Outdent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 699,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify left",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 733,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify center",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 758,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Clear format",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 791,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Undo",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 816,
+        "y": 1619,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add patient info",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 849,
+        "y": 1619,
+        "w": 134,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 2066,
+        "w": 55,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View templates",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 547,
+        "y": 2091,
+        "w": 100,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Import past encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 651,
+        "y": 2091,
+        "w": 145,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View images",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 799,
+        "y": 2091,
+        "w": 83,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "P",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 450,
+        "y": 2122,
+        "w": 44,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Bold",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 501,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Italic",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 526,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Decrease font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 560,
+        "y": 2122,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Increase font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 584,
+        "y": 2122,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert unordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 616,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert ordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 641,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Indent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 674,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Outdent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 699,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify left",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 733,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify center",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 758,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Clear format",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 791,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Undo",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 816,
+        "y": 2122,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add patient info",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 849,
+        "y": 2122,
+        "w": 134,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add observations",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rlg-v2",
+      "rect": {
+        "x": 445,
+        "y": 2466,
+        "w": 140,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add images",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rlg-v2",
+      "rect": {
+        "x": 588,
+        "y": 2466,
+        "w": 105,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 2531,
+        "w": 55,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View templates",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 563,
+        "y": 2556,
+        "w": 100,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Import past encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 667,
+        "y": 2556,
+        "w": 145,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View diagnosis",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 815,
+        "y": 2556,
+        "w": 97,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View S/I/As",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 915,
+        "y": 2556,
+        "w": 75,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "P",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 450,
+        "y": 2587,
+        "w": 44,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Bold",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 501,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Italic",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 526,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Decrease font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 560,
+        "y": 2587,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Increase font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 584,
+        "y": 2587,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert unordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 616,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert ordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 641,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Indent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 674,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Outdent list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 699,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify left",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 733,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Justify center",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 758,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Clear format",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 791,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Undo",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 816,
+        "y": 2587,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add patient info",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 849,
+        "y": 2587,
+        "w": 134,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add diagnosis",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rlg-v2",
+      "rect": {
+        "x": 445,
+        "y": 2748,
+        "w": 118,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Add screening/intervention/assessment",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rlg-v2",
+      "rect": {
+        "x": 566,
+        "y": 2748,
+        "w": 275,
+        "h": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Minimize",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link",
+      "rect": {
+        "x": 1029,
+        "y": 2813,
+        "w": 55,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View templates",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 516,
+        "y": 2837,
+        "w": 100,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Import past encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 619,
+        "y": 2837,
+        "w": 145,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "View medications",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn--link box-padding-Rmd-v2",
+      "rect": {
+        "x": 767,
+        "y": 2837,
+        "w": 114,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "P",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-shorter dropdown-toggle",
+      "rect": {
+        "x": 450,
+        "y": 2867,
+        "w": 44,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Bold",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 501,
+        "y": 2867,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Italic",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 526,
+        "y": 2867,
+        "w": 26,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Decrease font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 560,
+        "y": 2867,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Increase font size",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 584,
+        "y": 2867,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Insert unordered list",
+      "name": null,
+      "id": null,
+      "classes": "btn btn-tool",
+      "rect": {
+        "x": 616,
+        "y": 2867,
+        "w": 26,
+        "h": 26
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nPatient lists\n \nSteve DemoCardio \nSteve DemoCardio\nPRN:\u00a0\nSS892268\n83 yrs M\nActions\nSummary\nTimeline\nDocuments\nProfile\nPayment collection\nPatient ledger\n07/07/2026\nDisplay settings\n\nLAST REFRESHED\n\n10:41 PM\n\nGo to...\n\u00a0\nPrint\nSave\nSign\n4 total notifications\nRefresh to update clinical decision support (CDS) notifications below.\nSummary\nTemplates\nPast encounters\nFlowsheets \nPractice\nVitals\nLaunch SMART app\n\nGo to the app marketplace to enable more applications for SMART launch.\n\nDiagnoses \nChronic\n(I11.0) Congestive heart failure\n(I10) Hypertension\n(E11.9) Diabetes mellitus\nPatient risk score \n\nNo patient risk score recorded\n\nSocial history\nTobacco use \n\nNo tobacco use recorded\n\nSocial history (free text)\n40 pack-year history (quit smoking 3/2009).\nGender identity \n\nNo gender identity recorded\n\nSexual orientation \n\nNo sexual orientation recorded\n\nNutrition history \n\nNo nutrition history recorded\n\nPregnancy status \n\nNo pregnancy status recorded\n\nPregnancy intent \n\nNo pregnancy intent recorded\n\nFood insecurity risk - HVS \n\nNo food insecurity risk - hvs recorded\n\nFamily health history \n\nNo family health history recorded\n\nPast medical history\nMajor events \n\nNo major events recorded\n\nOngoing medical problems\nCongestive Heart Failure NYHA Class II, Hypertension, DM Type II\nPreventive care\nInfluenza Vaccine (10/1/12), Pneumovax (1/4/12)\nSocial history (free text)\n40 pack-year history (quit smoking 3/2009).\nNutrition history \n\nNo nutrition history recorded\n\nDevelopmental history \n\nNo developmental history recorded\n\nAdvance directives \n\nNo advance directives recorded\n\nAllergies \nDrug\nPatient has no known drug allergies\nFood\n\nNo food allergies recorded\n\nEnvironmental\n\nNo environmental allergies recorded\n\nMedications Record Prescribe\nPatient Medications (2)\nFurosemide (Lasix) 80 MG Oral Tablet\nStart: 04/20/2026\nLisinopril 20 MG Oral Tablet\nStart: 04/20/2026\nShow historical (2)\nScreenings/ Interventions/ Assessments\nNo screening/interventions/assessments on signed encounters for this patient. Learn more\nImplantable devices \nPatient has no implantable device\nHealth concerns \nAdd a health concern note\nPatient has no health concerns\nGoals \n\nNo patient goals recorded\n\nEncounters\n07/07/2026 185349003 (SNOMED-CT) Office Visit (SOAP Note)\nCC: Hard to breathe\n06/29/2026 185349003 (SNOMED-CT) Office Visit (SOAP Note)\nCC: Test results\n06/09/2026 185349003 (SNOMED-CT) Office Visit (Patient Phone Message)\nCC: test results\n05/09/2026 185349003 (SNOMED-CT) Office Visit (Patient Phone Message)\nCC: refill\n04/20/2026 185349003 (SNOMED-CT) Office Visit (SOAP Note) \nCC: Shortness of breath\nMessages \n\nNo messages for this patient\n\nGo to messages\nAppointments\nUpcoming\nJul 27, 2026 - 09:00 AM Follow-Up Visit\n\nPending arrival - Will Demo\n\nPast\nApr 23, 2026 - 03:30 PM Follow-Up Visit\n\nSeen - Will Demo\n\nView all appointments in timeline\nGo to\nEncounter details\nENCOUNTER TYPE\n185349003 (SNOMED-CT) - Office Visit\nNOTE TYPE\nSOAP Note\nDATE\nToday\nAGE AT ENCOUNTER\n\n83 yrs\n\nSEEN BY\nWill Demo\nFACILITY\nWill Demo Practice\nSTATUS\n\nUnsigned\n\nSELF-PAY RESTRICTION\nEdit\nUnknown\nAPPOINTMENT\nNo qualifying appointment to select\nChief complaint\nHealth concerns\n Add\nPrint\nMinimize\n\n0/4000\n\nPatient has no health concerns\nFlowsheets  Add US Customary  Show growth charts\nMinimize\nVitals  Add column \nLast 5 encounters or labs\n Print Edit Refresh Minimize\nVitals\nHeight\nWeight\nBMI\nBMI Percentile\nBP\nTemperature\nPulse\nRespiratory rate\nO2 Saturation\nPain\nHead Circumference\n04/20/26\n67 in\n201 lb\n31.48\n156/92 mmHg\n98.9 \u00b0F\n86 bpm\n16 bpm\n05/09/26\n67 in\n212 lb\n33.20\n162/90 mmHg\n98.7 \u00b0F\n88 bpm\n16 bpm\n06/29/26\n67 in\n212 lb\n33.20\n140/86 mmHg\n98.8 \u00b0F\n82 bpm\n16 bpm\nMedications\nRecord\nPrescribe\nShow\nPrint\nMinimize\nWAS MEDICATION RECONCILIATION COMPLETED?\nSelect...\nPatient Medications (2)\nNAME\nSIG\nSTART\nPRESCRIPTIONS\nFurosemide (Lasix) 80 MG Oral Tablet \nLisinopril 20 MG Oral Tablet \nTake half of a table",
+  "captured_at": "2026-07-13T05:41:12.060581+00:00",
+  "step_label": "after_action_23"
+}

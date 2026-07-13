@@ -1,0 +1,865 @@
+{
+  "url": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline/encounter",
+  "title": "Practice Fusion",
+  "hash": "#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline/encounter",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Steve DemoCardio",
+      "rect": {
+        "x": 136,
+        "y": 69,
+        "w": 143,
+        "h": 24
+      }
+    },
+    {
+      "level": "h4",
+      "text": "PRN:",
+      "rect": {
+        "x": 295,
+        "y": 71,
+        "w": 33,
+        "h": 20
+      }
+    }
+  ],
+  "regions": [],
+  "tables": [
+    {
+      "headers": [],
+      "row_count": 5,
+      "rect": {
+        "x": 81,
+        "y": 200,
+        "w": 1027,
+        "h": 285
+      }
+    }
+  ],
+  "interactive_elements": [
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Home",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/home",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember90",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 95,
+        "w": 80,
+        "h": 55
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Schedule",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/schedule",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember91",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Tasks",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/tasks/index",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember92",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 207,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Charts",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember93",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 263,
+        "w": 80,
+        "h": 56
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Messages",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/messaging",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember94",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 319,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Reports",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/reporting",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember95",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 0,
+        "y": 375,
+        "w": 80,
+        "h": 53
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Help",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "btn dropdown-toggle help-button",
+      "rect": {
+        "x": 565,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Lock",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button lock-button",
+      "rect": {
+        "x": 856,
+        "y": 0,
+        "w": 73,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Settings",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button nav-settings",
+      "rect": {
+        "x": 928,
+        "y": 0,
+        "w": 92,
+        "h": 29
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Log out",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "nav-button logout-button",
+      "rect": {
+        "x": 1020,
+        "y": 0,
+        "w": 89,
+        "h": 29
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient lists",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/list",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember650",
+      "classes": "ember-view clearfix",
+      "rect": {
+        "x": 80,
+        "y": 30,
+        "w": 93,
+        "h": 30
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Steve DemoCardio",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember652",
+      "classes": "active ember-view clearfix",
+      "rect": {
+        "x": 176,
+        "y": 30,
+        "w": 148,
+        "h": 30
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add photo",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__patient-photo",
+      "rect": {
+        "x": 96,
+        "y": 68,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "tag": "div",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Toggle patient info",
+      "name": null,
+      "id": null,
+      "classes": "patient-info__column patient-info__button",
+      "rect": {
+        "x": 462,
+        "y": 68,
+        "w": 29,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Actions",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "actions-menu__dropdown",
+      "rect": {
+        "x": 1010,
+        "y": 74,
+        "w": 83,
+        "h": 26
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Summary",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember654",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 96,
+        "y": 108,
+        "w": 76,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Summary",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/summary",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember655",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 105,
+        "y": 111,
+        "w": 58,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Timeline",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember656",
+      "classes": "composable-header__nav-tab composable-header__nav-tab--is-active ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 180,
+        "y": 108,
+        "w": 70,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Timeline",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/timeline",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember657",
+      "classes": "composable-header__nav-link active ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 189,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Documents",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember658",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 258,
+        "y": 108,
+        "w": 88,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/documents",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember659",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 267,
+        "y": 111,
+        "w": 70,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Profile",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember660",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 353,
+        "y": 108,
+        "w": 57,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Profile",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/profile",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember661",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 362,
+        "y": 111,
+        "w": 39,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember662",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 419,
+        "y": 108,
+        "w": 133,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Payment collection",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/payment-collection",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember663",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 428,
+        "y": 111,
+        "w": 115,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember664",
+      "classes": "composable-header__nav-tab ember-view patient-header__nav-tab",
+      "rect": {
+        "x": 559,
+        "y": 108,
+        "w": 102,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Patient ledger",
+      "placeholder": null,
+      "href": "https://static.practicefusion.com/apps/ehr/index.html#/PF/charts/patients/208ca750-5b63-41b9-8540-f7aed201a2f2/ledger",
+      "ariaLabel": null,
+      "name": null,
+      "id": "ember665",
+      "classes": "composable-header__nav-link ember-view patient-header__nav-tab-link",
+      "rect": {
+        "x": 568,
+        "y": 111,
+        "w": 84,
+        "h": 20
+      }
+    },
+    {
+      "tag": "li",
+      "type": "tab",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": null,
+      "rect": {
+        "x": 666,
+        "y": 108,
+        "w": 66,
+        "h": 26
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Open quick preview",
+      "name": null,
+      "id": null,
+      "classes": "patient-previews__icon icon-history icon-color-white",
+      "rect": {
+        "x": 666,
+        "y": 111,
+        "w": 52,
+        "h": 20
+      }
+    },
+    {
+      "tag": "i",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Add pin",
+      "name": null,
+      "id": "ember671",
+      "classes": "composable-popover-target icon-pushpin icon--md ember-view",
+      "rect": {
+        "x": 718,
+        "y": 114,
+        "w": 14,
+        "h": 14
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "events-refresh-btn",
+      "rect": {
+        "x": 96,
+        "y": 145,
+        "w": 14,
+        "h": 19
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "Encounters",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "composable-select__choice",
+      "rect": {
+        "x": 186,
+        "y": 139,
+        "w": 208,
+        "h": 26
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Appointments",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 170,
+        "w": 86,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents pending",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 196,
+        "w": 122,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Documents signed",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 222,
+        "w": 113,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "e-Prescriptions",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 248,
+        "w": 91,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Encounters",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 274,
+        "w": 69,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Exported patient records",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 300,
+        "w": 151,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Imaging orders",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 326,
+        "w": 92,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Imaging results",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 352,
+        "w": 93,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Lab orders",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 378,
+        "w": 65,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Lab results",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 404,
+        "w": 66,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Prescription drafts",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 430,
+        "w": 112,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Prior authorizations",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 456,
+        "w": 120,
+        "h": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "text": "Referrals",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": null,
+      "name": null,
+      "id": null,
+      "classes": "text-color-default",
+      "rect": {
+        "x": 195,
+        "y": 482,
+        "w": 54,
+        "h": 18
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": "New encounter",
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "New encounter",
+      "name": null,
+      "id": null,
+      "classes": "split-button__main-button split-button__main-button--primary",
+      "rect": {
+        "x": 929,
+        "y": 139,
+        "w": 131,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Split button dropdown",
+      "name": null,
+      "id": null,
+      "classes": "split-button__arrow-button--primary",
+      "rect": {
+        "x": 1061,
+        "y": 139,
+        "w": 32,
+        "h": 26
+      }
+    },
+    {
+      "tag": "button",
+      "type": "submit",
+      "text": null,
+      "placeholder": null,
+      "href": null,
+      "ariaLabel": "Knowledge Center Bot, also known as KC Bot is an onboarding assistant that allows you to see the list of onboarding items in one place for quick and easy reference. This improves your in-app experience.",
+      "name": null,
+      "id": null,
+      "classes": "apt-widget-dragging-handle dragging-handle",
+      "rect": {
+        "x": 1202,
+        "y": 722,
+        "w": 58,
+        "h": 58
+      }
+    }
+  ],
+  "body_text_preview": "Home\nSchedule\nTasks\nCharts\nMessages\nReports\n Help \nWill Demo\nWill Demo Practice\n Lock\n Settings\n Log out\nPatient lists\n \nSteve DemoCardio \nSteve DemoCardio\nPRN:\u00a0\nSS892268\n83 yrs M\nActions\nSummary\nTimeline\nDocuments\nProfile\nPayment collection\nPatient ledger\n10:40 PM\nEncounters\nAppointments\nDocuments pending\nDocuments signed\ne-Prescriptions\nEncounters\nExported patient records\nImaging orders\nImaging results\nLab orders\nLab results\nPrescription drafts\nPrior authorizations\nReferrals\nNew encounter\nTYPE/SOURCE\n\t\nDETAILS\n\t\nSTATUS\n\n\n\n\nOffice Visit\n\nWill Demo\n\n\t\n\nSOAP Note\n\nCC: Hard to breathe\n\n\t\n\n07/07/2026\n\n\n\n\nOffice Visit\n\nWill Demo\n\n\t\n\nSOAP Note\n\nCC: Test results\n\n\t\n\n06/29/2026\n\n\n\n\nOffice Visit\n\nWill Demo\n\n\t\n\nPatient Phone Message\n\nCC: test results\n\n\t\n\n06/09/2026\n\n\n\n\nOffice Visit\n\nWill Demo\n\n\t\n\nPatient Phone Message\n\nCC: refill\n\n\t\n\n05/09/2026\n\n\n\n\nOffice Visit\n\nWill Demo\n\n\t\n\nSOAP Note\n\nCC: Shortness of breath\n\n\t\n\n04/20/2026\n\nSigned\n\n\n\nAdvertisement",
+  "captured_at": "2026-07-13T05:40:58.246663+00:00",
+  "step_label": "I can see the Timeline filter dropdown with many options. Let me document them a"
+}
