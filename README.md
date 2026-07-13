@@ -1,11 +1,9 @@
 # Practice Fusion EHR Clone
 
-An interactive web clone of the Practice Fusion EHR — pixel-faithful UI with
+An interactive web clone of the Practice Fusion EHR. Pixel-faithful UI with
 working user journeys (scheduling, charting, SOAP notes, tasks, messaging)
 backed by a small FastAPI + SQLite service seeded with demo data.
 
-Reference material lives in `practice_fusion_scrape/` (screenshots, layout
-JSON, per-step notes from the real app).
 
 ## Run it
 
