@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-pf-bg font-sans text-pf-text text-[13px] antialiased;
+}
+
+@layer components {
+  .btn-orange {
+    @apply bg-pf-orange text-white font-bold px-4 py-1.5 rounded-sm hover:bg-pf-orangeDark disabled:opacity-50;
+  }
+  .btn-blue-outline {
+    @apply border border-pf-link text-pf-link bg-white font-bold px-4 py-1.5 rounded-sm hover:bg-blue-50;
+  }
+  .btn-blue {
+    @apply bg-pf-blue text-white font-bold px-4 py-1.5 rounded-sm hover:brightness-95;
+  }
+  .pf-link {
+    @apply text-pf-link hover:underline cursor-pointer;
+  }
+  .pf-card {
+    @apply bg-white border border-pf-border;
+  }
+  .pf-input {
+    @apply border border-gray-400 rounded-sm px-2 py-1 text-[13px] bg-white focus:outline-none focus:border-pf-blue disabled:bg-gray-100;
+  }
+  .pf-label {
+    @apply block text-xxs font-bold text-gray-600 uppercase tracking-wide mb-1;
+  }
+  .req::after {
+    content: ' *';
+    @apply text-pf-orange;
+  }
+}
